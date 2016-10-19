@@ -1,0 +1,5 @@
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Week5\NovAssessment\NovAssessment\bin\Debug\NovAssessment.exe
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Week5\NovAssessment\NovAssessment\bin\Debug\NovAssessment.pdb
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Week5\NovAssessment\NovAssessment\obj\x86\Debug\NovAssessment.exe
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Week5\NovAssessment\NovAssessment\obj\x86\Debug\NovAssessment.pdb
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Week5\NovAssessment\NovAssessment\obj\x86\Debug\NovAssessment.csprojResolveAssemblyReference.cache
